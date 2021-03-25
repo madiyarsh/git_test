@@ -1,0 +1,1 @@
+This is Madiyar’s first git project!
